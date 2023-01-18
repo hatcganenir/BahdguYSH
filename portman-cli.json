@@ -5,6 +5,5 @@
   "portmanConfigFile": "postman/portman-config.json",
   "includeTests": true,
   "bundleContractTests": false,
-  "syncPostman": false,
   "runNewman": false
 }
